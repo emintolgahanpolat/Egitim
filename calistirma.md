@@ -8,7 +8,7 @@ roslaunch racecar teleop.launch
 ```
 Tek başına sweep i çalıştırmak için:
 ```bash
-roslaunch sweep_node sweep_minified.launch
+roslaunch sweep_ros sweep_minified.launch
 ```
 OpenCV veya bangbang node unu çalıştırmak için:
 ```bash
