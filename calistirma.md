@@ -10,9 +10,10 @@ Tek başına sweep i çalıştırmak için:
 ```bash
 roslaunch sweep_node sweep_minified.launch
 ```
-OpenCV node unu çalıştırmak için:
+OpenCV veya bangbang node unu çalıştırmak için:
 ```bash
-roslaunch openCV opencv.py
+rosrun openCV opencv.py
+rosrun bangbang bangbang
 ```
 Kod u değiştirdikten sonra tekrar build etmek için:
 ```bash
