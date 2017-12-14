@@ -26,3 +26,9 @@ catkin_make
 # veya 
 catkin_make --pkg <paket ismi>
 ```
+
+
+Simulasyon:
+```bash
+roslaunch racecar_gazebo racecar_BWSI_2017.launch
+```
